@@ -1,0 +1,107 @@
+📊 Technical Analysis (Chart & Price Patterns)
+Support & Resistance Levels – Identify key price levels where stock trends may reverse.
+Trend Lines – Drawn on charts to identify market direction.
+Moving Averages (SMA, EMA, WMA) – Analyze trends using short-term and long-term averages.
+Golden Cross & Death Cross – Signals potential bullish or bearish trend reversals.
+Fibonacci Retracement – Identify potential reversal levels based on Fibonacci ratios.
+Bollinger Bands – Measure price volatility and overbought/oversold conditions.
+RSI (Relative Strength Index) – Detects overbought (>70) and oversold (<30) market conditions.
+MACD (Moving Average Convergence Divergence) – Detects trend momentum and reversals.
+ADX (Average Directional Index) – Measures trend strength.
+Ichimoku Cloud – Provides multiple signals for trend direction, support, and resistance.
+Parabolic SAR – Identifies trend reversals using trailing stop-loss dots.
+Stochastic Oscillator – Measures momentum by comparing the closing price to a range of prices.
+On-Balance Volume (OBV) – Analyzes volume flow for confirming trends.
+Accumulation/Distribution Line (A/D Line) – Measures money flow into or out of a stock.
+VWAP (Volume Weighted Average Price) – Identifies average trading price over a period.
+Elliott Wave Theory – Predicts market movements based on repeating wave cycles.
+Gann Theory – Uses geometric angles to predict price movements.
+Pivot Points – Identifies key intraday support and resistance levels.
+Heikin-Ashi Candles – Smoother candlestick representation for trend identification.
+Renko Charts – Filters out noise and focuses on price movement trends.
+📉 Chart Pattern Analysis
+Head & Shoulders Pattern – Predicts reversals from bullish to bearish trends.
+Cup & Handle Pattern – Signals bullish continuation patterns.
+Double Top & Double Bottom – Reversal patterns signaling market tops and bottoms.
+Triangle Patterns (Ascending, Descending, Symmetrical) – Predicts breakouts.
+Flag & Pennant Patterns – Continuation patterns that signal short-term consolidation before breakouts.
+Wedge Patterns (Rising & Falling) – Predicts trend continuation or reversals.
+Diamond Top & Bottom Patterns – Signals potential reversals.
+Rounding Bottom & Top – Indicates long-term trend reversals.
+Three Black Crows & Three White Soldiers – Bearish and bullish reversal patterns.
+Doji Candlestick Pattern – Signals market indecision, potential reversals.
+🏛 Fundamental Analysis
+PE Ratio (Price to Earnings) – Measures stock valuation.
+PEG Ratio (Price to Earnings Growth) – Adjusts PE ratio based on earnings growth.
+PB Ratio (Price to Book Value) – Determines if a stock is over/undervalued.
+Dividend Yield – Measures the percentage return from dividends.
+Earnings Per Share (EPS) – Indicates company profitability.
+ROE (Return on Equity) – Measures profitability against shareholder equity.
+ROA (Return on Assets) – Evaluates how efficiently assets generate profit.
+Debt-to-Equity Ratio (D/E) – Measures financial leverage.
+Free Cash Flow (FCF) – Determines the cash available for investors.
+Operating Margin – Evaluates operational efficiency.
+Net Profit Margin – Measures overall profitability.
+Earnings Growth Rate – Predicts company growth potential.
+Insider Buying/Selling – Analyzing transactions by executives.
+Institutional Ownership – Percentage of stock owned by large investors.
+Interest Coverage Ratio – Measures ability to pay interest on debt.
+Altman Z-Score – Predicts bankruptcy risk.
+Piotroski Score – Assesses financial health using 9 criteria.
+Tobin’s Q Ratio – Compares market value to asset replacement cost.
+Cash Conversion Cycle (CCC) – Measures liquidity and cash flow efficiency.
+Intrinsic Value Calculation (DCF Model) – Determines stock value based on future cash flows.
+🔥 Market Sentiment Analysis
+Put/Call Ratio – Measures sentiment based on options trading.
+Fear & Greed Index – Tracks investor sentiment.
+VIX (Volatility Index) – Measures market fear based on S&P 500 options volatility.
+High-Low Index – Tracks stock highs and lows.
+Short Interest Ratio – Percentage of shares sold short vs. total available.
+Margin Debt Analysis – Measures leveraged investments.
+Advance-Decline Line (AD Line) – Measures market breadth.
+Sector Rotation Analysis – Identifies which sectors are gaining strength.
+Dark Pool Volume – Tracks institutional buying in private exchanges.
+Options Open Interest & Unusual Activity – Tracks large investor moves.
+🚀 Quantitative & Machine Learning Techniques
+ARIMA Models – Time-series forecasting for stock prices.
+LSTM Neural Networks – Deep learning for price prediction.
+Random Forest Regression – Machine learning for trend analysis.
+Gradient Boosting (XGBoost, LightGBM) – Predicts stock movements.
+Monte Carlo Simulations – Runs probabilistic scenarios for price movement.
+Hidden Markov Models (HMM) – Analyzes hidden market states.
+Reinforcement Learning for Trading – AI agents optimizing trading decisions.
+Sentiment Analysis of News & Social Media – AI-driven market sentiment detection.
+Factor-Based Investing (Fama-French Model) – Identifies investment factors.
+Portfolio Optimization (Markowitz Model) – Determines best asset allocation.
+📡 Macro & Economic Indicators
+GDP Growth Rate – Measures economic expansion/contraction.
+Interest Rate Analysis (Federal Reserve, RBI, ECB) – Tracks central bank policies.
+Inflation Rate (CPI, PPI) – Affects stock valuations.
+Unemployment Rate – Impacts consumer spending.
+Housing Market Trends – Indicators like home sales and mortgage rates.
+Consumer Sentiment Index – Measures economic confidence.
+PMI (Purchasing Managers' Index) – Tracks manufacturing growth.
+Money Supply (M1, M2, M3) – Indicates liquidity levels.
+Foreign Exchange Rates – Currency fluctuations impact multinational companies.
+Yield Curve Analysis – Predicts recessions when inverted.
+📌 Other Advanced Techniques
+Hedging with Options & Futures – Reduces risk exposure.
+Pairs Trading Strategy – Trades correlated stocks.
+High-Frequency Trading (HFT) – Algorithmic microsecond trades.
+Blockchain & Smart Contracts in Trading – Decentralized finance (DeFi) strategies.
+Crowdsourced Market Predictions – Uses collective investor insights.
+Insider Trading Tracking – Monitors executive trades.
+Regression Analysis on Historical Data – Identifies trends.
+Volume Profile Analysis – Studies volume at different price levels.
+Market Breadth Indicators – Assesses overall market strength.
+Event-Driven Trading (M&A, Earnings Reports) – Captures volatility after news.
+Seasonality Trends in Stocks – Predicts price behavior in different months.
+ETF Flows & Sector Rotation – Identifies market shifts.
+Leveraged & Inverse ETFs Analysis – Tracks alternative investment vehicles.
+Smart Money Flow Index – Measures large investor movements.
+Market Internals (Tick, Trin, Up/Down Volume) – Short-term market health indicators.
+Smart Beta Investing – Uses alternative index strategies.
+Insider Ownership Changes – Monitors executive stake adjustments.
+Alternative Data (Satellite, Web Scraping, Google Trends) – Gathers non-traditional insights.
+Retail vs. Institutional Flow Comparison – Identifies market manipulation.
+Blockchain-Based Stock Tokenization – Emerging market trend for trading digital stocks.
